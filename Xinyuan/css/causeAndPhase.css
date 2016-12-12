@@ -1,0 +1,32 @@
+.background path {
+    fill: none;
+    stroke: #ccc;
+    stroke-opacity: .4;
+    shape-rendering: crispEdges;
+}
+
+.foreground path {
+    fill: none;
+    stroke: grey;
+    stroke-opacity: .7;
+}
+
+.brush .extent {
+    fill-opacity: .3;
+    stroke: #fff;
+    shape-rendering: crispEdges;
+}
+
+.phaseChart_axis line, .phaseChart_axis path {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+
+}
+
+.phaseChart_axis text {
+
+    fill: grey;
+    opacity: 1;
+
+}
