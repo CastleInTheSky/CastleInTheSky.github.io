@@ -65442,6 +65442,296 @@
         "destination": "HND"
     },
     {
+      "accident_country": "USA",
+      "peopleNumInAP": 0,
+      "nature": "Domestic Scheduled Passenger",
+      "origin": "USA",
+      "year": 2013,
+      "destination": "USA"
+    },
+    {
+      "accident_country": "SAU",
+      "peopleNumInAP": 315,
+      "nature": "International Scheduled Passenger",
+      "origin": "IRN",
+      "year": 2013,
+      "destination": "SAU"
+    },
+    {
+      "accident_country": "USA",
+      "peopleNumInAP": 3,
+      "nature": "Private",
+      "origin": "USA",
+      "year": 2013,
+      "destination": "USA"
+    },
+    {
+      "accident_country": "IND",
+      "peopleNumInAP": 179,
+      "nature": "Domestic Scheduled Passenger",
+      "origin": "IND",
+      "year": 2013,
+      "destination": "IND"
+    },
+    {
+      "accident_country": "SSD",
+      "peopleNumInAP": 0,
+      "nature": "Domestic Scheduled Passenger",
+      "origin": "SSD",
+      "year": 2013,
+      "destination": "SSD"
+    },
+    {
+      "accident_country": "DEU",
+      "peopleNumInAP": 4,
+      "nature": "Unknown",
+      "origin": "GBR",
+      "year": 2013,
+      "destination": "DEU"
+    },
+    {
+      "accident_country": "USA",
+      "peopleNumInAP": 2,
+      "nature": "Test",
+      "origin": "USA",
+      "year": 2013,
+      "destination": "USA"
+    },
+    {
+      "accident_country": "MEX",
+      "peopleNumInAP": 0,
+      "nature": "Cargo",
+      "origin": "MEX",
+      "year": 2013,
+      "destination": "MEX"
+    },
+    {
+      "accident_country": "GUY",
+      "peopleNumInAP": 2,
+      "nature": "Cargo",
+      "origin": "GUY",
+      "year": 2013,
+      "destination": "GUY"
+    },
+    {
+      "accident_country": "ROU",
+      "peopleNumInAP": 7,
+      "nature": "Ambulance",
+      "origin": "ROU",
+      "year": 2013,
+      "destination": "ROU"
+    },
+    {
+      "accident_country": "ETH",
+      "peopleNumInAP": 2,
+      "nature": "Ferry/positioning",
+      "origin": "UGA",
+      "year": 2013,
+      "destination": "YEM"
+    },
+    {
+      "accident_country": "DNK",
+      "peopleNumInAP": 2,
+      "nature": "Ferry/positioning",
+      "origin": "DNK",
+      "year": 2013,
+      "destination": "FRA"
+    },
+    {
+      "accident_country": "SLB",
+      "peopleNumInAP": 3,
+      "nature": "Cargo",
+      "origin": "AUS",
+      "year": 2013,
+      "destination": "SLB"
+    },
+    {
+      "accident_country": "FRA",
+      "peopleNumInAP": 19,
+      "nature": "International Scheduled Passenger",
+      "origin": "DEU",
+      "year": 2013,
+      "destination": "FRA"
+    },
+    {
+      "accident_country": "GRL",
+      "peopleNumInAP": 15,
+      "nature": "Domestic Scheduled Passenger",
+      "origin": "GRL",
+      "year": 2013,
+      "destination": "GRL"
+    },
+    {
+      "accident_country": "IDN",
+      "peopleNumInAP": 222,
+      "nature": "Domestic Scheduled Passenger",
+      "origin": "IDN",
+      "year": 2013,
+      "destination": "IDN"
+    },
+    {
+      "accident_country": "USA",
+      "peopleNumInAP": 7,
+      "nature": "Executive",
+      "origin": "USA",
+      "year": 2013,
+      "destination": "USA"
+    },
+    {
+      "accident_country": "CHN",
+      "peopleNumInAP": 44,
+      "nature": "Domestic Scheduled Passenger",
+      "origin": "CHN",
+      "year": 2013,
+      "destination": "CHN"
+    },
+    {
+      "accident_country": "RUS",
+      "peopleNumInAP": 9,
+      "nature": "Domestic Scheduled Passenger",
+      "origin": "RUS",
+      "year": 2013,
+      "destination": "RUS"
+    },
+    {
+      "accident_country": "TUR",
+      "peopleNumInAP": 110,
+      "nature": "International Scheduled Passenger",
+      "origin": "UKR",
+      "year": 2013,
+      "destination": "TUR"
+    },
+    {
+      "accident_country": "DZA",
+      "peopleNumInAP": 77,
+      "nature": "Military",
+      "origin": "DZA",
+      "year": 2013,
+      "destination": "DZA"
+    },
+    {
+      "accident_country": "RUS",
+      "peopleNumInAP": 2,
+      "nature": "Ferry/positioning",
+      "origin": "RUS",
+      "year": 2013,
+      "destination": "RUS"
+    },
+    {
+      "accident_country": "NPL",
+      "peopleNumInAP": 18,
+      "nature": "Domestic Scheduled Passenger",
+      "origin": "NPL",
+      "year": 2013,
+      "destination": "NPL"
+    },
+    {
+      "accident_country": "SSD",
+      "peopleNumInAP": 4,
+      "nature": "Cargo",
+      "origin": "SSD",
+      "year": 2013,
+      "destination": "SSD"
+    },
+    {
+      "accident_country": "PRT",
+      "peopleNumInAP": 182,
+      "nature": "International Scheduled Passenger",
+      "origin": "GBR",
+      "year": 2013,
+      "destination": "PRT"
+    },
+    {
+      "accident_country": "CHE",
+      "peopleNumInAP": 202,
+      "nature": "International Scheduled Passenger",
+      "origin": "ETH",
+      "year": 2013,
+      "destination": "ITA"
+    },
+    {
+      "accident_country": "USA",
+      "peopleNumInAP": 1,
+      "nature": "Private",
+      "origin": "USA",
+      "year": 2013,
+      "destination": "USA"
+    },
+    {
+      "accident_country": "PRT",
+      "peopleNumInAP": 170,
+      "nature": "Int'l Non Scheduled Passenger",
+      "origin": "CZE",
+      "year": 2013,
+      "destination": "PRT"
+    },
+    {
+      "accident_country": "AGO",
+      "peopleNumInAP": 17,
+      "nature": "Domestic Non Scheduled Passenger",
+      "origin": "AGO",
+      "year": 2013,
+      "destination": "AGO"
+    },
+    {
+      "accident_country": "USA",
+      "peopleNumInAP": 154,
+      "nature": "Domestic Scheduled Passenger",
+      "origin": "USA",
+      "year": 2013,
+      "destination": "USA"
+    },
+    {
+      "accident_country": "IND",
+      "peopleNumInAP": 9,
+      "nature": "Executive",
+      "origin": "IND",
+      "year": 2013,
+      "destination": "IND"
+    },
+    {
+      "accident_country": "IND",
+      "peopleNumInAP": 5,
+      "nature": "Military",
+      "origin": "IND",
+      "year": 2013,
+      "destination": "IND"
+    },
+    {
+      "accident_country": "DEU",
+      "peopleNumInAP": 82,
+      "nature": "International Scheduled Passenger",
+      "origin": "DEU",
+      "year": 2013,
+      "destination": "HUN"
+    },
+    {
+      "accident_country": "USA",
+      "peopleNumInAP": 2,
+      "nature": "Training",
+      "origin": "USA",
+      "year": 2013,
+      "destination": "USA"
+    },
+    {
+      "accident_country": "MEX",
+      "peopleNumInAP": 8,
+      "nature": "Domestic Non Scheduled Passenger",
+      "origin": "MEX",
+      "year": 2013,
+      "destination": "MEX"
+    },
+    {
+      "accident_country": "GBR",
+      "peopleNumInAP": 2,
+      "nature": "Cargo",
+      "origin": "FRA",
+      "year": 2013,
+      "destination": "GBR"
+    },
+
+
+    {
         "accident_country": "USA",
         "peopleNumInAP": 0,
         "nature": "Domestic Scheduled Passenger",
