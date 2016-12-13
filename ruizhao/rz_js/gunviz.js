@@ -197,11 +197,11 @@ function introzr() {
         }
 
         function ui() {
-            $("#peoplebox, #yearsbox, #distSwitch, #menuBox, #blurb").fadeIn(500);
+            $("#peoplebox, #yearsbox, #distSwitch, #menuBox, #blurb").fadeIn(200);
         }
 
         function canvas() {
-            $("#c").fadeIn(500);
+            $("#c").fadeIn(200);
         }
 
         //show all the UI stuff, begin the intro animation.
